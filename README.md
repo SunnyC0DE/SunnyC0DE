@@ -17,11 +17,9 @@
 ## 🔥 Highlight Projects
 | Project | Description |
 |--------|-------------|
-| 🧠 [Image Caption Generator](#) | ML + CNN/RNN based system that generates captions from images |
-| 😎 [Face Recognition System](#) | Real-time face detection & recognition using DeepFace |
-| 💻 [Laptop Price Predictor](#) | Regression-based ML model to predict laptop prices |
-| 📋 [Project Management System](#) | Full-stack Django app for managing tasks & users |
-| ✨ [AI Chatbot + Avatar](#) | Emotional response-based chatbot integrated with Blender/Godot animations |
+| 😎 [Intent-Based Chatbot](https://github.com/SunnyC0DE/Intent-Based-Chatbot) | Real-time face detection & recognition using DeepFace |
+| 💻 [Face Detection](https://github.com/SunnyC0DE/Face_detection) | Regression-based ML model to predict laptop prices |
+| 📋 [Django Project Management System](https://github.com/SunnyC0DE/Project_management_system) | Full-stack Django app for managing tasks & users |
 
 ---
 
