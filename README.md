@@ -7,7 +7,8 @@
 ---
 
 ## 🔧 Technologies & Tools I Use
-- **Languages:** Python, C++, Java, SQL  
+- **Languages:** Python, C++, Java, SQL
+- **Technologies:** AI/ML, Selenium, TensorFlow, RNN, ANN,CNN
 - **Frameworks:** Django, TensorFlow, PyTorch  
 - **Web:** HTML, CSS, JavaScript, React (basic)  
 - **Tools:** VS Code, GitHub, Postman, Selenium, Jupyter Notebook
@@ -30,6 +31,6 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: sitarayaar@gmail.com  
+- 📧 Email: sunnykumarwork00@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sunny-kumar-834076271/)  
 - 🌐 [GitHub](https://github.com/SunnyC0DE)
