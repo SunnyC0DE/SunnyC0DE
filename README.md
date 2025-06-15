@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunny Kumar
 
-🎓 Final Year B.Tech (CSE) | AI/ML Enthusiast | Backend Developer  
+🎓 B.Tech (CSE) Graduated| AI/ML Enthusiast | Backend Developer  
 📍 Based in Patiala, Punjab  
 💡 Passionate about building smart systems using Python, ML, and Django
 
